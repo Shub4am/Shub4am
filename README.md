@@ -1,4 +1,4 @@
-Hey👋, My name is Shubham Prakash
+Hey👋, My name is Shubham
 =======================
 ## I am a Front-End Developer💻
 * 🌏 I am based in Bengaluru, India
