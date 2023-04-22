@@ -3,7 +3,7 @@ Hey👋, My name is Shubham
 ## I am a Front-End Developer💻
 * 🌏 I am based in Bengaluru, India
 * 🧑‍💻 Checkout my portflio deployed using <a target="_blank" rel="noreferrer" href='https://shubhamprakashdev.vercel.app/'><img align='center' width="80" height="25" src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white' alt='Vercel'/></a>
-* 🤝 I am open to collaboration on exciting projects
+* 🤝 I am open to collaborating on exciting projects
 * 📖 I am currently learning TypeScript
 
 ### Skills
