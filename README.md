@@ -25,8 +25,8 @@ Hey👋, My name is Shubham
 <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/shub4am/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/></a>
 </p>
 
-### Stats
+<!-- ### Stats
 <p align='left'> 
 
 <img src='https://github-readme-stats.vercel.app/api?username=shub4am&theme=white' alt='readme stats'/>
-</p>
+</p> -->
